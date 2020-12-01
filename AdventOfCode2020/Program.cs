@@ -1,4 +1,4 @@
-﻿using System;
+﻿using AdventOfCode2020.DayOne;
 
 namespace AdventOfCode2020
 {
@@ -6,7 +6,8 @@ namespace AdventOfCode2020
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // PuzzleOne.Solve();
+            PuzzleTwo.Solve();
         }
     }
 }
