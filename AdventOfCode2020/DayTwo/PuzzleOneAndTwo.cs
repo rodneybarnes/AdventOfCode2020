@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AdventOfCode2020.Common;
+using System;
 
 namespace AdventOfCode2020.DayTwo
 {
@@ -6,7 +7,7 @@ namespace AdventOfCode2020.DayTwo
     {
         public static void Solve()
         {
-            var lines = InputParser.GetLines();
+            var lines = InputParser.GetLines("daytwo.txt");
             FindNumberOfCorrectPasswords(lines);
         }
 
