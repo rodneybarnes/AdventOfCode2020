@@ -13,7 +13,7 @@ namespace AdventOfCode2020.DayOne
 
         public static int[] GetEntries()
         {
-            var filePath = Directory.EnumerateFiles($"{Directory.GetCurrentDirectory()}/Resources").FirstOrDefault(f => f.Contains("puzzle-one.txt"));
+            var filePath = Directory.EnumerateFiles($"{Directory.GetCurrentDirectory()}/Resources").FirstOrDefault(f => f.Contains("dayone.txt"));
 
             List<int> entries = new List<int>();
             using (var sr = new StreamReader(filePath))
