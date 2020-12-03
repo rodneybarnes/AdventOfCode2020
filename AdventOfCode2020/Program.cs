@@ -6,7 +6,8 @@
         {
             //DayOne.PuzzleOne.Solve();
             //DayOne.PuzzleTwo.Solve();
-            DayTwo.PuzzleOneAndTwo.Solve();
+            //DayTwo.PuzzleOneAndTwo.Solve();
+            DayThree.Problem.Solve();
         }
     }
 }
