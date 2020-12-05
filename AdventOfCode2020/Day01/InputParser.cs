@@ -2,9 +2,9 @@
 using System.IO;
 using System.Linq;
 
-namespace AdventOfCode2020.DayOne
+namespace AdventOfCode2020.Day01
 {
-    public static class InputParser
+    internal static class InputParser
     {
         public static int[] GetTestEntries()
         {

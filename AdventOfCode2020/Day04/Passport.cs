@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AdventOfCode2020.DayFour
+namespace AdventOfCode2020.Day04
 {
     public class Passport
     {

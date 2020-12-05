@@ -1,7 +1,7 @@
 ﻿using AdventOfCode2020.Common;
 using System;
 
-namespace AdventOfCode2020.DayTwo
+namespace AdventOfCode2020.Day02
 {
     public class PuzzleOneAndTwo
     {

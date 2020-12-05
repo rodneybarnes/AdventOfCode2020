@@ -4,11 +4,12 @@
     {
         static void Main(string[] args)
         {
-            //DayOne.PuzzleOne.Solve();
-            //DayOne.PuzzleTwo.Solve();
-            //DayTwo.PuzzleOneAndTwo.Solve();
-            //DayThree.Problem.Solve();
-            DayFour.Problem.Solve();
+            //Day01.PuzzleOne.Solve();
+            //Day01.PuzzleTwo.Solve();
+            //Day02.PuzzleOneAndTwo.Solve();
+            //Day03.Problem.Solve();
+            //Day04.Problem.Solve();
+            Day05.Problem.Solve();
         }
     }
 }

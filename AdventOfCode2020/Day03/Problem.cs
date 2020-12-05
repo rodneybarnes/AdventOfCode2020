@@ -1,7 +1,7 @@
 ﻿using AdventOfCode2020.Common;
 using System;
 
-namespace AdventOfCode2020.DayThree
+namespace AdventOfCode2020.Day03
 {
     public class Problem
     {

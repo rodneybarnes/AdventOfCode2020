@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace AdventOfCode2020.DayFour
+namespace AdventOfCode2020.Day04
 {
     public class Problem
     {

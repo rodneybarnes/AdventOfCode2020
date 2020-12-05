@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace AdventOfCode2020.DayOne
+namespace AdventOfCode2020.Day01
 {
     public class PuzzleOne
     {
