@@ -13,7 +13,8 @@
             //Day06.Problem.Solve();
             //Day07.Problem.Solve();
             //Day08.Problem.Solve();
-            Day09.Problem.Solve();
+            //Day09.Problem.Solve();
+            Day10.Problem.Solve();
         }
     }
 }
