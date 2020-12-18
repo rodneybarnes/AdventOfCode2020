@@ -11,8 +11,9 @@ namespace AdventOfCode2020.Day17
         {
             var actual = InputParser.GetLines("dayseventeen.txt");
             var test = InputParser.GetLines("dayseventeen-test.txt");
-            char[,] slice = ParseInputToSlice(actual);
-            RunCycles(slice, 6);
+            Alternative.Solve(actual);
+            //char[,] slice = ParseInputToSlice(actual);
+            //RunCycles(slice, 6);
         }
 
         private static void RunCycles(char[,] slice, int cycles)
