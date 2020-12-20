@@ -21,7 +21,9 @@
             //Day14.Problem.Solve();
             //Day15.Problem.Solve();
             //Day16.Problem.Solve();
-            Day17.Problem.Solve();
+            //Day17.Problem.Solve();
+            //Day18.Problem.Solve();
+            Day19.Problem.Solve();
         }
     }
 }
